@@ -1,0 +1,17 @@
+import hashlib #hashlib
+
+#120BR is the passcode
+#130WG is the pass
+
+
+secret_passcode = input("Enter passcode: ")
+access_pass = input("File name: ")
+
+if " " in secret_passcode:
+    print("not an argument") 
+elif "120BR" in secret_passcode:
+        pass
+
+
+if "130WG" in access_pass:
+    print("password:456789") #put ur password(i dont know is it sequred)
