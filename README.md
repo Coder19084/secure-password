@@ -1,2 +1,5 @@
 # secure-password
-please let me know if it is secure or not 😊👌👌
+please please suport mee
+cause iam new in github.
+and make sure to run this code in vs code
+download:https://code.visualstudio.com/download
